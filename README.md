@@ -29,7 +29,7 @@ An AI-powered interview performance analyzer that provides comprehensive, data-d
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/ai-interview-coach](https://github.com/vamshisangam06/ai-interview-coach).git
+git clone https://github.com/vamshisangam06/ai-interview-coach.git
 cd ai-interview-coach
 ```
 
@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Vamshi**
-- GitHub: [@yourusername]([https://github.com/yourusername](https://github.com/vamshisangam06/ai-interview-coach))
+- GitHub: [@yourusername](https://github.com/vamshisangam06/ai-interview-coach)
 
 ## 🤝 Contributing
 
