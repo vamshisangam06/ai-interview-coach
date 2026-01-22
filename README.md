@@ -132,10 +132,6 @@ Contributions, issues, and feature requests are welcome!
 - STAR method framework for behavioral interviews
 - Open-source AI/ML libraries and tools
 
-## 📞 Support
-
-For support, email your.email@example.com or open an issue in the repository.
-
 ---
 
 **Made with ❤️ for job seekers worldwide**
