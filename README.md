@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Vamshi**
-- GitHub: [@yourusername](https://github.com/vamshisangam06/ai-interview-coach)
+- GitHub: [@Vamshi](https://github.com/vamshisangam06/ai-interview-coach)
 
 ## 🤝 Contributing
 
